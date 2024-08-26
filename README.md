@@ -7,7 +7,7 @@
 - **Character Selection**: Choose from a roster of diverse characters, each with unique abilities and fighting styles.
 - **Arena Variety**: Battle in multiple arenas, each with different environments and hazards to keep the gameplay fresh.
 
-## Technologies Used
+## Tools and Technologies Used
 
 ### 1. C++
 - The core game mechanics, logic, and functionality are built using **C++**, ensuring high performance and flexibility for complex interactions in the game.
