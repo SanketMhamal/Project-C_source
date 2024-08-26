@@ -7,6 +7,23 @@
 - **Character Selection**: Choose from a roster of diverse characters, each with unique abilities and fighting styles.
 - **Arena Variety**: Battle in multiple arenas, each with different environments and hazards to keep the gameplay fresh.
 
+## Technologies Used
+
+### 1. C++
+- The core game mechanics, logic, and functionality are built using **C++**, ensuring high performance and flexibility for complex interactions in the game.
+
+### 2. Unreal Engine
+- **Unreal Engine** powers the game's graphics and physics, providing stunning visuals, dynamic lighting, and realistic character animations. Unreal's Blueprint system and C++ integration were leveraged to create smooth and immersive gameplay.
+
+### 3. Blender
+- **Blender** was used for creating and modeling the 3D environments, arenas, and some of the character assets. Its robust tools allowed for detailed sculpting and texturing, bringing life to the game's world.
+
+### 4. Mixamo
+- Character animations were sourced and customized using **Mixamo**. This allowed for fluid, realistic animations for the diverse character roster, ensuring high-quality movement and attack patterns.
+
+### 5. Character Creator 4
+- The character design and customization were done using **Character Creator 4**. This tool was instrumental in building the diverse cast of characters with distinct looks, personalities, and fighting styles.
+
 ## Gameplay
 
 In *Project C*, two players can face off locally. Players select a character from a list of unique fighters, each offering different playstyles and skills. After choosing a character, players can then select an arena to fight in. The arenas feature different terrains, obstacles, and visuals, adding another layer of strategy to the fight.
